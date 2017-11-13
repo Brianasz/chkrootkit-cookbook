@@ -1,15 +1,7 @@
-name 'sst-chkrootkit'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'all_rights'
-description 'Installs/Configures sst-chkrootkit'
-long_description 'Installs/Configures sst-chkrootkit'
+name 'chkrootkit'
+maintainer 'Briana Sanchez'
+maintainer_email 'jokebed23@gmail.com'
+license 'Apache 2.0'
+description 'Installs/Configures chkrootkit'
+long_description 'Installs/Configures chkrootkit'
 version '0.1.0'
-
-# If you upload to Supermarket you should set this so your cookbook
-# gets a `View Issues` link
-# issues_url 'https://github.com/<insert_org_here>/sst-chkrootkit/issues' if respond_to?(:issues_url)
-
-# If you upload to Supermarket you should set this so your cookbook
-# gets a `View Source` link
-# source_url 'https://github.com/<insert_org_here>/sst-chkrootkit' if respond_to?(:source_url)
